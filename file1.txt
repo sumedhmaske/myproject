@@ -1,0 +1,2 @@
+My first file in git is changed now
+My first file changed
